@@ -1,0 +1,23 @@
+form{
+    margin: auto;
+    width: 500px;
+    padding: 50px;
+    background: blueviolet;
+}
+
+input[type=text]:focus,input[type=email]:focus ,input[type=password]:focus,input[type=date]:focus,input[type=textarea]{
+    background-color: brown;
+    width: 80%;
+    height: 40%;
+}
+
+
+.first{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+label{
+    width: 40%;
+    margin-right: 10px;
+}

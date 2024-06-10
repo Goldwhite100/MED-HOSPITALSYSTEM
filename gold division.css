@@ -1,0 +1,16 @@
+#heading1{
+    text-align: center;
+}
+#heading2{
+    color: chocolate;
+}
+#heading3{
+    color: chocolate;
+}
+#heading4{
+    color: chocolate;
+    font-style: italic;
+}
+body{
+    margin: 150px;
+}

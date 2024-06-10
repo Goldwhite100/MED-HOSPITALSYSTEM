@@ -1,0 +1,42 @@
+body{
+    background-color: blueviolet;
+}
+button{
+    background-color: blue;
+    color: white;
+    width: 220px;
+    height: 33px;
+}
+form{
+    background-color: white;
+    padding: 30px;
+    width: 80%;
+    margin-left: 90px;
+    border-style: solid;
+    border-color: black;
+    height: 300px;
+
+}
+h1{
+    text-align: center;
+}
+#mymain{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
